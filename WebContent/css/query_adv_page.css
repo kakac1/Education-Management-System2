@@ -1,0 +1,67 @@
+@CHARSET "UTF-8";
+#apDiv1 {
+    position: absolute;
+    left: 0px;
+    top: -3px;
+    width: 793px;
+    height: 854px;
+    z-index: 1;
+    background-color: #fffff;
+}
+#apDiv2 {
+	position: absolute;
+	left: 111px;
+	top: 63px;
+	width: 517px;
+	height: 45px;
+	z-index: 2;
+	background-color: #33ffc6;
+}
+#apDiv3 {
+	position: absolute;
+	left: 642px;
+	top: 65px;
+	width: 83px;
+	height: 42px;
+	z-index: 3;
+	font-size: 36px;
+	background-color: #6666CC;
+}
+#apDiv4 {
+	position: absolute;
+	left: 111px;
+	top: 118px;
+	width: 511px;
+	height: 35px;
+	z-index: 4;
+}
+#apDiv5 {
+	position: absolute;
+	left: 59px;
+	top: 180px;
+	width: 705px;
+	height: 575px;
+	z-index: 5;
+	background-color: #fffff;
+}
+#apDiv6 {
+	position: absolute;
+	left: 59px;
+	top: 769px;
+	width: 703px;
+	height: 61px;
+	z-index: 6;
+	background-color: #6656CC;
+}
+#mydiv  {
+
+	width: 517px;
+	height: 45px;
+	background-color: #d9eaee;
+}
+
+#mydiv input{
+	margin-top: 500px;
+	height: 60px;
+	width: 200px;
+}

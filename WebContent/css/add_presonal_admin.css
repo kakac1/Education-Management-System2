@@ -1,0 +1,90 @@
+@CHARSET "UTF-8";
+body {
+	width: 773px;
+	height: 830px;	
+}
+
+#apDiv1 {
+	position: absolute;
+	left: 29px;
+	top: 17px;
+	width: 770px;
+	height: 820px;
+	z-index: 1;
+}
+
+#apDiv2 {
+	position: absolute;
+	left: 544px;
+	top: 76px;
+	width: 186px;
+	height: 219px;
+	z-index: 2;
+	background: black;
+	background-image: url(image/狗.jpeg);
+}
+
+#apDiv3 {
+	position: absolute;
+	left: 92px;
+	top: 100px;
+	width: 301px;
+	height: 40px;
+	z-index: 3;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#apDiv4 {
+	position: absolute;
+	left: 90px;
+	top: 169px;
+	width: 303px;
+	height: 39px;
+	z-index: 4;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#apDiv5 {
+	position: absolute;
+	left: 89px;
+	top: 240px;
+	width: 304px;
+	height: 44px;
+	z-index: 5;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#apDiv6 {
+	position: absolute;
+	left: 223px;
+	top: 34px;
+	width: 193px;
+	height: 40px;
+	z-index: 6;
+	font-size: 36px;
+	font-weight: bold;
+}
+#apDiv14 {
+    position: absolute;
+    left: 305px;
+    top: 735px;
+    width: 196px;
+    height: 53px;
+    z-index: 14;
+    font-size: 36px;
+    font-weight: bold;
+    background-color: #999900;
+}
+#mydiv  {
+	height: 22px;
+	width: 180px;
+	background-color: #d9eaee;
+}
+#mydiv input{
+	margin-top: 500px;
+	height: 60px;
+	width: 200px;
+}

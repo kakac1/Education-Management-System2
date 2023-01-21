@@ -1,0 +1,182 @@
+@CHARSET "UTF-8";
+body {
+	width: 773px;
+	height: 830px;
+	background-image: url(image/白板.jpeg);
+}
+
+#apDiv1 {
+	position: absolute;
+	left: 29px;
+	top: 17px;
+	width: 770px;
+	height: 820px;
+	z-index: 1;
+}
+
+#apDiv2 {
+	position: absolute;
+	left: 544px;
+	top: 76px;
+	width: 186px;
+	height: 219px;
+	z-index: 2;
+	background: black;
+	background-image: url(image/张三.jpeg);
+}
+
+#apDiv3 {
+	position: absolute;
+	left: 92px;
+	top: 100px;
+	width: 301px;
+	height: 40px;
+	z-index: 3;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#apDiv4 {
+	position: absolute;
+	left: 90px;
+	top: 169px;
+	width: 303px;
+	height: 39px;
+	z-index: 4;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#apDiv5 {
+	position: absolute;
+	left: 89px;
+	top: 240px;
+	width: 304px;
+	height: 44px;
+	z-index: 5;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#apDiv6 {
+	position: absolute;
+	left: 223px;
+	top: 34px;
+	width: 193px;
+	height: 40px;
+	z-index: 6;
+	font-size: 36px;
+	font-weight: bold;
+}
+
+#apDiv7 {
+	position: absolute;
+	left: 88px;
+	top: 328px;
+	width: 350px;
+	height: 45px;
+	z-index: 7;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#apDiv8 {
+	position: absolute;
+	left: 92px;
+	top: 402px;
+	width: 299px;
+	height: 34px;
+	z-index: 8;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+#apDiv9 {
+	position: absolute;
+	left: 93px;
+	top: 468px;
+	width: 300px;
+	height: 36px;
+	z-index: 9;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#apDiv10 {
+	position: absolute;
+	left: 98px;
+	top: 556px;
+	width: 651px;
+	height: 103px;
+	z-index: 10;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#apDiv11 {
+	position: absolute;
+	left: 503px;
+	top: 336px;
+	width: 157px;
+	height: 31px;
+	z-index: 11;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#apDiv12 {
+	position: absolute;
+	left: 506px;
+	top: 408px;
+	width: 155px;
+	height: 34px;
+	z-index: 12;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#apDiv13 {
+	position: absolute;
+	left: 505px;
+	top: 471px;
+	width: 291px;
+	height: 34px;
+	z-index: 13;
+	font-size: 24px;
+	font-weight: bold;
+	border: 2px;
+}
+
+#apDiv14 {
+	position: absolute;
+	left: 191px;
+	top: 735px;
+	width: 157px;
+	height: 53px;
+	z-index: 14;
+	font-size: 36px;
+	font-weight: bold;
+	background-color: #999900;
+}
+
+#apDiv15 {
+	position: absolute;
+	left: 441px;
+	top: 737px;
+	width: 157px;
+	height: 53px;
+	z-index: 14;
+	font-size: 36px;
+	font-weight: bold;
+	background-color: #999900;
+}
+#mydiv  {
+	height: 22px;
+	width: 180px;
+	background-color: #d9eaee;
+}
+#mydiv input{
+	margin-top: 500px;
+	height: 60px;
+	width: 200px;
+}
